@@ -2,7 +2,7 @@
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "2.0.4",
     "@nomiclabs/hardhat-waffle": "2.0.2",
-    "@types/mocha": "8.2.2",
+    "@types/mocha": "8.2.3",
     "@types/node": "15.6.1",
     "chai": "4.3.4",
     "ethereum-waffle": "3.3.0",
